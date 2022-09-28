@@ -34,3 +34,4 @@ result = [1, 2, 2, 4, 4, 5, 6, 6, 7, 8]
 # As you can see, it works for duplicates too
 print(quicksort(0, len(example)-1, example))
 print("Hello! new world!")
+print("hi")
